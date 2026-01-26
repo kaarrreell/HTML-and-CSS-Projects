@@ -1,0 +1,23 @@
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+li h3 {
+  margin: 4px 0;
+  font-size: 1.1em;
+  color: darkslateblue;
+}
+
+li:hover {
+  color: darkred;
+  cursor: default;
+}

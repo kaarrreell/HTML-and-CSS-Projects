@@ -1,0 +1,19 @@
+/* Paragraph styling */
+p {
+	color: black;
+	background-color: yellow;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* Header styling */
+.Header_Style {
+	color: blue;
+	text-align: center;
+}
+
+/* Text shadow effect */
+.Text_shadow {
+	text-align: center;
+	text-shadow: 0 0 50px red;
+}
